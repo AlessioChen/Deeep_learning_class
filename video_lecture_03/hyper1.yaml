@@ -1,0 +1,7 @@
+dataset: 'mnist'
+learning_rate: 0.002
+momentum: 0.95
+num_epochs: 20
+batch_size: 128
+layer_sizes: [700, 500, 500]
+
